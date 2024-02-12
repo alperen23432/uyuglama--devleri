@@ -1,0 +1,3 @@
+kullanıcıdan ram ve işlemçisini iste
+eğer i7 veya üstü ise rami sor ramda 8in üstündeyse kurulum uygun
+değilse kurulum uygun değil yaz

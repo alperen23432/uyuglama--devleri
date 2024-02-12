@@ -1,0 +1,3 @@
+kullanıcıdan işlemci ve ram bilgilerini iste 
+eğer i7 ve 8gbramı varsa kurulum uygun yoksa kurulum uygun değil yaz
+ 

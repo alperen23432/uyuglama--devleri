@@ -1,0 +1,3 @@
+kullanıcıdan otoparkkta kaç saat durduğunu iste 
+1 saat ve altında ise 5 tl
+1-5 saat arası: Saat başı 4 TL 5 saatten fazla: Saat başı 3 TL  Buna göre kullanıcının girdiği otoparkta kalınan saat süresine göre 

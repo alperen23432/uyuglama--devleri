@@ -1,0 +1,2 @@
+1. kullanıcıdan bir ağırlık iste 
+2. bu ağırlık 20den büyük ise her kilo başına 10 tl para iste

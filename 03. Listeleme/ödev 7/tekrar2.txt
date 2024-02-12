@@ -1,0 +1,3 @@
+3 2 1 yaz 
+2 yi değiştir
+

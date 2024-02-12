@@ -1,0 +1,2 @@
+kullanıcıdan kilogram istenir .
+kilogram 20 nin üstün deyse her 1 kilo başına 10 tl vermesi istenir.

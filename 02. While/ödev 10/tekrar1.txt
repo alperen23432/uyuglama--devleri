@@ -1,0 +1,3 @@
+kullanıcıdan şifreyi girmesi istenir 
+eğer yanlış girerse şifreyi bir daha sor
+doğru girerse giriş başarılı yaz

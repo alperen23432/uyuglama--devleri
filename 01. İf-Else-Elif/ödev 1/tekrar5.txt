@@ -1,0 +1,2 @@
+öğretmenden üç sayı iste 
+eğer üç sayı ortalaması 50 veya 50 üzerindeyse başarılı değilse başarısız

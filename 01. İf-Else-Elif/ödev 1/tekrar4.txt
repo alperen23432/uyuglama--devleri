@@ -1,0 +1,2 @@
+kullanıcıdan bir performans birinci not ve ikinci notu iste 
+eğer bu sayıların ortalaması 50 veya 50den yüksek ise başarılı değil ise başarısız yazsın

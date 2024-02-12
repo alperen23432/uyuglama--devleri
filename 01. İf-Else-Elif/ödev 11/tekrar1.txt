@@ -1,0 +1,3 @@
+kullanıcıdan 3 tane açı iste 
+bu üç açının hepsi eşitse eşit kaenar
+ikisi eşitse ikiz kaenarhiçbiri eşit değilse çeşit kenar üçgen yaz

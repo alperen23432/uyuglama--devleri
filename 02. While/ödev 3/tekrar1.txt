@@ -1,0 +1,2 @@
+100 ile 0 arasındaki 5e bölünen sayıları bul
+ekrana yaz

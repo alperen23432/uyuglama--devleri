@@ -1,0 +1,2 @@
+kullanıcıdan iki sayı istenir
+iki sayının ortalaması alınır ve ekrana yazılır

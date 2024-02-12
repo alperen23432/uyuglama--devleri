@@ -1,0 +1,3 @@
+kullanıcıdan üç sayı iste
+eğer bu sayıların toplamı 180 ise bu bir üçgendir değil ise bu bir üçgen değildir
+

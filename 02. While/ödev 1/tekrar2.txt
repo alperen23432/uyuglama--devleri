@@ -1,0 +1,2 @@
+ 1 ile 30 arasında ki tek sayıları bul
+ ekrana yaz

@@ -1,0 +1,11 @@
+1. hafta sayısı al 
+2. hafta sayısına göre döngü aloştur
+    1. haftalık saati kullanıcıdan al
+    2. girilen sayısı toplam değişkene ekle
+3. döngünün içinde haftada kaç saat çalıştığı al
+4. kullanıcıya tercihini sor O,T 
+5. O girerse girdiği hafta sayısı topla ve haftaya böl kullanıcıya göster
+    1. toplam değişkenin hafta sayısına böl
+6. T girerse kullanıcıya girilen haftaık saatlerin toplamını ekrana yaz
+    1. toplam değişkenini ekrana yazdır
+    

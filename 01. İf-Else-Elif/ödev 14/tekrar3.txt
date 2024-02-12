@@ -1,0 +1,2 @@
+kullanıcı dan üç sayı iste
+en büyüğünü yaz

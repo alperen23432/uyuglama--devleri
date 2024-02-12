@@ -1,0 +1,1 @@
+60 ile 30 arasındaki çift sayıları bulekrana yaz

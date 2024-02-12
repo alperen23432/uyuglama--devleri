@@ -1,0 +1,3 @@
+1. kullanıcıdan kullanıcı adı istenir 
+2. kullanıcı hatalı ise (kullanıcı adı hatalı) yazılır
+3. kullanıcı adı doğru ama şifre hatalı ise (hatalı şifre) yazılır

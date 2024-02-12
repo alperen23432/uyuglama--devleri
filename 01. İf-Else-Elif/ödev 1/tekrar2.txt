@@ -1,0 +1,2 @@
+1. kullanıcıdan 1.notu 2.notu ve performans notu iste
+2. bu notların üçünün ortalaması 50den büyük ise başarılı değil ise beşarısız

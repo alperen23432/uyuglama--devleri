@@ -1,0 +1,3 @@
+1. kullanıcıdan 2 tane sayı istenir
+2. bu fiyat 200 altında ise indirim yapılmaz
+3. eğer 200 üstünde ise %25 indirim yapılır ve ekrana yazılır

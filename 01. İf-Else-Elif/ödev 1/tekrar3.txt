@@ -1,0 +1,2 @@
+kullanıcıdan 1.not 2.not birde performans notu iste 
+eğer bu sayıların ortalaması 50ye eşit veya üstüyse başarılı değil ise beşarısız yaz

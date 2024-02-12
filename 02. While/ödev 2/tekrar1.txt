@@ -1,0 +1,2 @@
+60 ile 30 arasındki çift sayıları bul 
+ekrana yaz

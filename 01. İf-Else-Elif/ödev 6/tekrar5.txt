@@ -1,0 +1,1 @@
+kullanıcı dan bir sayı istenir eğer sayı 15 e bölünüyorsa 15e tam bölünür bölünmüyorsa 15e tam bölünmez yaz

@@ -1,0 +1,2 @@
+1 ve 20 arasındaki sayıları bul ve topla
+ekrana yaz

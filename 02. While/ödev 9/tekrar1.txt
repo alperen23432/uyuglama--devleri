@@ -1,0 +1,3 @@
+kullanıcıdan 1 girene kadar sayı al 
+kullanıcı 1e basarsa girdiği bütün sayıların ortalaması bul 
+ekrana yaz

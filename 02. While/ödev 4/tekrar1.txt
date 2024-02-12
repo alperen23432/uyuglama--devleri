@@ -1,0 +1,2 @@
+0 ile 13 arasındaki sınıfları bul
+ekrana yaz

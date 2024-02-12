@@ -1,0 +1,4 @@
+
+
+1. kullanıcıdan iki not bir performans notu iste
+2.eğer ortalaması 50 nin üzerindeyse başarılı değilse başarısız yaz

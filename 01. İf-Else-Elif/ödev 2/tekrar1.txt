@@ -1,0 +1,4 @@
+kullanıcıdan üçtane sayı iste 
+eğer bu sayıların toplamı 180ne eşit ise bu bir üçgen
+değil ise bu bir üçgen değil yaz
+programı sonlandır

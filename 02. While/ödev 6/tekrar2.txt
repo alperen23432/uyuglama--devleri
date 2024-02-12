@@ -1,0 +1,4 @@
+kullanıcıdan 2 sayı iste 
+bu sayıların arasındaki sayıları bul 
+hepsini topla 
+ekrana yaz

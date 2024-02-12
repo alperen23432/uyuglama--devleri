@@ -1,0 +1,4 @@
+kullanıcıdan bir sıcaklık değeri iste 
+eğer sıcaklık değeri 5in altında ise soğuk 
+6 ile 14 arasında ise ılık
+14 üstünde ise sıcak yaz
